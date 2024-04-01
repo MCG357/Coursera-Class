@@ -1,6 +1,5 @@
 # Coursera-Class
 Coursera Class Repository 
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Hello World </h1>
