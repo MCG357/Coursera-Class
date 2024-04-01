@@ -1,4 +1,5 @@
 # Coursera-Class
+<!doctype html>
 Coursera Class Repository 
 <html>
 <body>
